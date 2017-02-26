@@ -1,6 +1,14 @@
 # machine-learning
 @(cs229)
 
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
+
+\begin{align*}
+a=b
+\end{align*}
+
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 ##linear regression
