@@ -1,6 +1,8 @@
 # machine-learning
 @(cs229)
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 ##linear regression
 ###LMS(最小均方差算法)
 #### BGD vs SGD
@@ -100,3 +102,4 @@ J(\theta) =
 2. 根据样本间独立同分布求整个样本的分布，再取对数求cost function
 3. 根据cost function求模型loss function
  
+
